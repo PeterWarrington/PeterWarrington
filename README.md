@@ -35,3 +35,4 @@ I worked on a project to build a printer driver for the 3DS. I now have a violen
 </td>
 </tr>
 </table>
+<sub><sup><a href="https://lilpete.me/archived-index.html">archived lilpete.me homepage</a></sup></sub>
