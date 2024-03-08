@@ -2,7 +2,7 @@
     lilpete.me / <a href="https://lilpete.me/projects">projects</a> || <a href="https://lilpete.me/blog/">blog</a>
 </h1>
 
-*A selection of choice articles from my blog:*
+*A selection of articles from my blog:*
 
 <table>
 <tr>
