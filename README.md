@@ -1,5 +1,5 @@
 <h1>
-    lilpete.me / <a href="https://lilpete.me/projects">projects</a> || <a href="https://lilpete.me/blog/">blog</a>
+    <a href="https://lilpete.me/">lilpete.me</a> / <a href="https://lilpete.me/projects">projects</a> || <a href="https://lilpete.me/blog/">blog</a>
 </h1>
 
 *A selection of articles from my blog:*
@@ -35,4 +35,3 @@ I worked on a project to build a printer driver for the 3DS. I now have a violen
 </td>
 </tr>
 </table>
-<sub><sup><a href="https://lilpete.me/archived-index.html">archived lilpete.me homepage</a></sup></sub>
