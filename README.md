@@ -51,10 +51,5 @@ I worked on a project to build a printer driver for the 3DS. I now have a violen
 <img width="200px" alt="Untitled Mapping Project" src="https://github.com/PeterWarrington/PeterWarrington/assets/28735593/752f628b-65d1-4d46-aba1-12f1d6a66fa6">
 </a>
 </td>
-<td>
-<a href="https://lilpete.me/photoGraph">
-<img width="200px" alt="photoGraph" src="https://www.lilpete.me/screenshots/photoGraph/photoGraph.png">
-</a>
-</td>
 </tr>
 </table>
