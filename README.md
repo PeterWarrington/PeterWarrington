@@ -53,7 +53,7 @@ I worked on a project to build a printer driver for the 3DS. I now have a violen
 </td>
 <td>
 <a href="https://www.lilpete.me/olm-convert">
-<img width="300px" alt="OLM Convert" src="https://github.com/PeterWarrington/olm-convert/raw/main/screenshot.png">
+<img width="300px" alt="OLM Convert" src="https://raw.githubusercontent.com/PeterWarrington/olm-convert/refs/heads/main/web/screenshot.png">
 </a>
 </td>
 </tr>
