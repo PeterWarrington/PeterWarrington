@@ -45,6 +45,14 @@ AI isn't going to destroy humanity, but they're unreliable, unaccountable, and u
 <tr>
 
 <td>
+    <a href="https://parliament.lilpete.me">
+        <img width="200px" alt="Parliament Simple: The debates of our time. Without the boring bits."
+            src="https://github.com/user-attachments/assets/52049ea2-a85a-4424-a47d-eea351e85570" />
+    </a>
+
+</td>
+
+<td>
 <a href="https://dystopian-uk.lilpete.me/">
 <img width="200px" alt="Dystopian GOV.UK" style="padding:20px" src="https://www.lilpete.me/screenshots/dystopian-govuk/dystopian-govuk.png"/>
 </a>
